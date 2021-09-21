@@ -1,0 +1,1 @@
+Ele deveria repetir o sinal e manter o mesmo funcionando, mas não é o que acontece. O sinal fica perfeito, mas a conexão cai constantemente. Já testei todas as configurações possíveis, e o problema continua.

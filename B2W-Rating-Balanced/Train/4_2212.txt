@@ -1,0 +1,1 @@
+Funciona como o esperado. Não fica desconectando toda hora como outros modelos.

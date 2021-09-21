@@ -1,0 +1,1 @@
+Somente na questão de layout acho que ficaria melhor exibir a data no formato dd/mm/aaaa, com as barras, sem espaços, e a temperatura com o símbolo de grau [°]

@@ -1,0 +1,1 @@
+Solucionou o problema de ter onde colocar o decodificador mas achei muito fraco.

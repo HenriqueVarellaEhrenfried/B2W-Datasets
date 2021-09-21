@@ -1,0 +1,1 @@
+Produto com durabilidade menor, em termos de tempo de uso.

@@ -1,0 +1,1 @@
+Leitor de CD não efetua leitura de nenhuma mídia. pensei que era porque estava usando mídia não original, mas mim enganei, tentei varias mídias originais e o leitor não ler absolutamente nenhuma. veio com defeito

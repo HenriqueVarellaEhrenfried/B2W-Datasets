@@ -1,0 +1,1 @@
+O computador exibe diagnóstico de que a bateria está em estado crítico. Ela carrega até 100%, mas o tempo que fica sem estar conectada a energia é muito pequeno indicando estar em final de vida útil ou danificada. De fato, as Américas me venderam uma bateria velha ou danificada.

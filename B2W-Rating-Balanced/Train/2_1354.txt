@@ -1,0 +1,1 @@
+Algumas funções da câmera não estão respondendo, como exemplo, configuração de posição fixa. Além de que ela modifica as configurações de som do telefone .

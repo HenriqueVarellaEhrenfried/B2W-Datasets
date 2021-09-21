@@ -1,0 +1,1 @@
+Trabalho com o telefone ip da Grandstream a mais de um ano e nunca tive problemas. O provedor voip oferece ajuda pra configuração, mas nem necessário é fácil de configurar. Um artigo que me ajudou a ver os benefícios de usar a telefonia ip foi esse https://www.voipdobrasil.com.br/blog/por_que_o_telefone_ip_e_essencial_para_sua_empresa

@@ -1,0 +1,1 @@
+O carregador que recebi não carrega, ele apenas mantém a caraga no estado em que ela está. Portanto, não permite carregar completamente a bateria!

@@ -1,0 +1,1 @@
+Nem usando o Driver Booster os drivers funcionam corretamente no Windows 7 64 bits

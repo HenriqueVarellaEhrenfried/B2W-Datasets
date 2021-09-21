@@ -1,0 +1,1 @@
+É um monitor completamente simples.  Material e recursos extremamente básicos entrada apenas para VGA e resolução muito baixa.  Pra mim está servindo como quebra galho e enquanto estiver funcionando não pretendo trocar.

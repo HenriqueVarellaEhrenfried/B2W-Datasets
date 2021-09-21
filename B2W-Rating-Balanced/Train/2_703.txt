@@ -1,0 +1,1 @@
+a impressora funciona, mas a impressão não fica boa. há variação de tinta no texto impresso.

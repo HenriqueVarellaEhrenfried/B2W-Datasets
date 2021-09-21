@@ -1,0 +1,1 @@
+Com pilhas novas, fiz varios testes, fica ligado por 20 segundos e delisga sozinho.

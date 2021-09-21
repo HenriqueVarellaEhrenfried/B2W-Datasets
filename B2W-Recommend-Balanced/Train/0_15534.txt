@@ -1,0 +1,1 @@
+Mesmo configurando conforme deve ser, o equipamento se recusa a aceitar a senha padrão inserida na configuração. Para resetar então é mais problemático ainda.

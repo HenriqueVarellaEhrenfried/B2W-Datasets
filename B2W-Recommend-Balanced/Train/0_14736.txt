@@ -1,0 +1,1 @@
+O produto não apresenta informações técnicas, como: Input: 100V-240V 50/60Hz Saída Output: 19v 3.42A - Bivolt Diâmetro Interno do Pino: 1.7mm Dâmetro Externo do Pino: 5.5mm Voltagem: 19v Amperagem: 3.42A

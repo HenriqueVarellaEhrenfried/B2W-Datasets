@@ -1,0 +1,1 @@
+Gera a bebida escolhida na compra e o vidro congela e mantém a bebida gelada. Genial!

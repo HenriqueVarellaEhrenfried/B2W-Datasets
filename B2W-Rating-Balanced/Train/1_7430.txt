@@ -1,0 +1,1 @@
+Produto funciona de forma irregular liga porém faz um barulho e não aceita comando , não tem quem pare em cima pois faz rotação invertida

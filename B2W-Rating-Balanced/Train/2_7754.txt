@@ -1,0 +1,1 @@
+Película menor que a tela nas laterais. Atrapalha ler e dificulta o touch.

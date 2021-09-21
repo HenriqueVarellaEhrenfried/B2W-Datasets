@@ -1,0 +1,1 @@
+O notebook fica travando às vezes em funções básicas como abrir o Excel!

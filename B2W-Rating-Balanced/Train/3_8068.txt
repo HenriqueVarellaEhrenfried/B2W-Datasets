@@ -1,0 +1,1 @@
+Para o objetivo do produto que é o exercício de caminhada, é um bom produto, porém, o registro dos batimentos cardíacos não marca corretamente. A marcação não é estável, em pleno exercício fica variando de 70 a 160 batimentos ( fica num sobe e desce constante).

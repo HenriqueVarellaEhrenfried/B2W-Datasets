@@ -1,0 +1,1 @@
+Os ponteiros não ajustam para os dois lados, apenas para o sentido horário, estarei tomando minhas providências por terem me vendido um produto falso com o anúncio de original

@@ -1,0 +1,1 @@
+Atende minha necessidade, porém quando a uma violação de algum setor, os leds de todos setores piscam, assim não tenho como saber qual setor foi violado.

@@ -1,0 +1,1 @@
+tem um problema, que algumas notas ficam presas, não fisicamente, o sinal midi enviado não para enquanto vc não toca de novo a tecla, não ee sempre que acontece mas acontece com alguma frequencia. para uma situaçnao de estudio é até contornavel, ao vivo não dá, compromete

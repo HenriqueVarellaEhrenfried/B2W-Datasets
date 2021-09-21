@@ -1,0 +1,1 @@
+Algumas teclas do teclado falham quando você digita rápido, retardando muito a digitação. O Mouse muitas vezes fica bem lento.

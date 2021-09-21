@@ -1,0 +1,1 @@
+Carrego a bateria e após usar durante 40 minutos o micro simplesmente desliga, como se desse uma pane na bateria e alguns minutos antes o sistema avisava que tinha 1h e 30 minutos de autonomia.

@@ -1,0 +1,1 @@
+O aparelho nao é ruim, mas tem vários bugs. Ele começa uma música exibindo, por exemplo: 00:43. Aí depois ele inicia a contagem de tempo daa músicas. Também não mostra o nome da música durante a execução. Esperava mais do aparelho.

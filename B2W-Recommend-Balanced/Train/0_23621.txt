@@ -1,0 +1,1 @@
+não permite que a imagem da tela do computador e do projetor fiquem ligadas ao mesmo tempo. Ou projeta a imagem da tela do computador ou a do projetor. Os dois ao mesmo tempo não funcionam

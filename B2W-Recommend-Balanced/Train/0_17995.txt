@@ -1,0 +1,1 @@
+Não consegui que ele fosse reconhecido por nenhuma porta USB que conectei ele. Testei em vários computadores ainda. Baixei um programa do fabricante que detectou uma falha

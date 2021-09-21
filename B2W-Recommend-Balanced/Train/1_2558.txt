@@ -1,0 +1,1 @@
+Este livro apresenta de forma rápida os principais temas abordados na disciplina de sinais e sistemas, entrelaçando sistemas contínuos e discretos em todos os capítulos.

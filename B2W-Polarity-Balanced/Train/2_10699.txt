@@ -1,0 +1,1 @@
+O produto tem funcionado bem porem ha uns dois dias a marcação de temperatura fica mudando sozinha entre os graus Farenheit e Celsius. Quando eu mudo no botao na parte posterior com um palito para Celsius, minutos depois ele volta a mostrar a temperatura em Farenheit. Podem me ajudar por favor?

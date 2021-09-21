@@ -1,0 +1,1 @@
+Produto extremamente sensível.  A precisão é boa, uso para pesar coisas menores que um grama, mas já vi ela falhar depois de um simples objeto (levíssimo) que caiu em cima. Felizmente, a perda da precisão foi temporária.  Cuidado com os erros de aproximação. Dois objetos individualmente pesados em 0,3, juntos podem pesar 0,7. No mais, super portátil, excelente custo benefício.

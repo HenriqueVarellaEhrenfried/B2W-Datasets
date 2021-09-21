@@ -1,0 +1,1 @@
+Não funciona só fica piscando o led.  Está funcionando normal do nada fica só piscando e não liga mais. Só vai ligar depois de um tempão.. Não sei se é defeito ou e normal

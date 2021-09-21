@@ -1,0 +1,1 @@
+O climatizador realiza sua função de refrigerar com a ajuda do gelo e ligando a função umidificar, ligando somente a função ventilar o aparelho é apenas um ventilador.

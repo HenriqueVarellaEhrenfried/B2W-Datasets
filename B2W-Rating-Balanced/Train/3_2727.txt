@@ -1,0 +1,1 @@
+Roteador barato, fácil de configurar. Um dor poucos com opção de fail-over.

@@ -1,0 +1,1 @@
+Ela faz um barulho a cada vez que aumentamos a rotação.

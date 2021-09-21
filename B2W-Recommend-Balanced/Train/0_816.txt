@@ -1,0 +1,1 @@
+Fica horas carregando e uma hora de jogo. Não segura a carga.

@@ -1,0 +1,1 @@
+Produto funciona mas a velocidade 3 parece a 1, na velocidade 1 de uma certa distância vc não sente o vento.

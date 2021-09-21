@@ -1,0 +1,1 @@
+O som distorce e quando vc aumenta todo o volume no modo Bluetooth, automaticamente, em seguida, a caixa desconecta desse modo interrompendo a execução da música.

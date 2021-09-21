@@ -1,0 +1,1 @@
+Ao ligar o veículo produto (som) não dá continuidade da música que parou   e retorna a música inicial do pen drive. Não me satisfez.

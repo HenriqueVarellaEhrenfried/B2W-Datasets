@@ -1,0 +1,1 @@
+A Bateria funciona de 100% a 40% , Quando chega a 40% descarrega e desliga o celular.

@@ -1,0 +1,1 @@
+Deveriam avisar qdo o produto não pudesse ser entregue.

@@ -1,0 +1,1 @@
+Pirata, além de modificar os arquivos que são gravados nele, não tem a capacidade de armazenamento. Me senti enganado, só que infelizmente demorei para descobrir o que estava errado e tive que ficar com a batata quente na mão.

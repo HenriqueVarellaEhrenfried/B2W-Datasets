@@ -1,0 +1,1 @@
+Antes mesmo de conseguir configurar ele não transmite o sinal aberto para configuracao. Acende luzinhas mas nao tem sinal.

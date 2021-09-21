@@ -1,0 +1,1 @@
+Falta o botão "smart hub", que facilita o acesso direto ao recurso. Na segunda opção, temos que usar o recurso de acesso, passando por vários comandos até chegar ao recurso esperado

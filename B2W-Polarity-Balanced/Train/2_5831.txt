@@ -1,0 +1,1 @@
+As velocidades deste interruptor são muito maiores do que as do interruptor original, correndo o risco de superaquecer o motor se usado na potência máxima por muito tempo.
