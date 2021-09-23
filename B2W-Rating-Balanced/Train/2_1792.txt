@@ -1,1 +1,0 @@
-Basicamente, tentei arrumar de várias formas porém as teclas Q, A, Z,na sequência não pega e logo, a tecla ESC

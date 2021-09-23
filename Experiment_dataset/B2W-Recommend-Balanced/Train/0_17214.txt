@@ -1,0 +1,1 @@
+Na descrição do item, foi confirmado funcionar com lâmpadas eletrônicas e LED, entretanto na pratica o interruptor não desliga a completamente a lâmpada com LED e ficava piscando com eletrônica. So funcionou mesmo com incandescente. Seria um bom produto de funcionasse com lâmpadas econômicas da forma que funciona com as incandescentes.

@@ -1,0 +1,1 @@
+Para uns comandos deve adivinhar qual tecla tocar, falta a tecla "\", etc

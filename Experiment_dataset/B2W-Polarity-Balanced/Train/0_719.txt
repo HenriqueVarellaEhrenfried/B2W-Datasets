@@ -1,0 +1,1 @@
+Sistema lento e travado, se não reiniciar o celular diariamente nem o alarme programado toca, o indicador de bateria quando chega a 15% desliga o aparelho.

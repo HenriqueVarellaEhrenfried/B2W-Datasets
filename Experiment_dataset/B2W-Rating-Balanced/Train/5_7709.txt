@@ -1,0 +1,1 @@
+Trabalho com desenvolvimento Android, e rodar o emulador sempre foi um problema, essa máquina com essa configuração e principalmente pelo SSD, melhorou demais o desenpenho e a minha produtividade

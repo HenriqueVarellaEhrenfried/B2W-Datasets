@@ -1,0 +1,1 @@
+o led fica piscando ou aceso quando o monitor esta desligado. ele deveria ficar 100% desligado, dai tenho que ficar removendo o cabo de energia da tomada,   desnecessario, faltou um pouco de UX

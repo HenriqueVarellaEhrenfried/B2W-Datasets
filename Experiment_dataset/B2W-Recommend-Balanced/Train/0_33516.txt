@@ -1,0 +1,1 @@
+não se trata de um microfone condensador, para isso o conector teria de ser um XLR e ser alimentado por uma voltagem de 48v, coisa que esse conector a conecção p2 não faz. É comprar gato por lebre.

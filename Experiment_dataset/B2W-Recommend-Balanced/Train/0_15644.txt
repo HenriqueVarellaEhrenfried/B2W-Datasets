@@ -1,0 +1,1 @@
+Os códigos que o leitor lê, a captura é boa. Mas tem uma falha: não lê boletos, nem tributos, nem concessionárias. Quem for comprar com essa finalidade, não compre, pois não lê.

@@ -1,0 +1,1 @@
+Aparece o controle multicolorido na imagem mas ele só tem 3 cores, vermelho, azul e verde.

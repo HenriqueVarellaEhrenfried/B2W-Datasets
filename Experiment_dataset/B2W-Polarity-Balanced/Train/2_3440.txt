@@ -1,0 +1,1 @@
+Aparelho atende um usuário normal para utilização das funcionalidades básicas do mesmo.

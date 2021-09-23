@@ -1,0 +1,1 @@
+O visor do aparecer não aparece nenhum tipo de informação.  Nem ao menos o número em que estamos ligando, muito menos o número que está nos ligando.  Nem data, nem horas, etc... Nada!

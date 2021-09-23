@@ -1,0 +1,1 @@
+faltou o cabo de alimentação e o suporte do contro e o identificador de temperatura (display)

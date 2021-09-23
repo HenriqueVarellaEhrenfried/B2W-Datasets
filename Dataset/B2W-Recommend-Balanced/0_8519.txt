@@ -1,0 +1,1 @@
+"tamanho adequado" é extremante vago, quero saber qual o tamanho em centimetros (tamanho de todos lados e de altura)

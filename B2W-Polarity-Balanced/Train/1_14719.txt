@@ -1,1 +1,0 @@
-O relógio é bonito. Marca o dia e tem ponteiro de segundos.

@@ -1,0 +1,1 @@
+so acho que deveria ter uma divisao dentro para facilitar a separacao dos obijetos colocado dentro da mochila

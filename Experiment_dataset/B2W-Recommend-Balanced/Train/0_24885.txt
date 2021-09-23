@@ -1,0 +1,1 @@
+Não funciona! O aplicativo parece ser simples, inicialmente configurei, reconfigurei e não funcionou, não capta o Wi-fi do dispositivo.

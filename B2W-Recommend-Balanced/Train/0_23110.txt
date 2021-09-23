@@ -1,1 +1,0 @@
-gostaria de saber se a pre escuta e individual pra cada canal ou se posso usa-la sem ter que mexer no balanceamento da mesa.

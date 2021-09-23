@@ -1,0 +1,1 @@
+Faltam informações no site dizendo que o processador que pode ser inserido somente de plataforma de notebooks e nao processadores de mesa ! Tenho um amd Semprom 2650 AM1 que simplesmente não encaixa na placa mãe  O processador ultrapassa os limites do Socket !!!

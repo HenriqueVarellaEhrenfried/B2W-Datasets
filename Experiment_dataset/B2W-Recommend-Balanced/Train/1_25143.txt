@@ -1,0 +1,1 @@
+O jogo é muito maneiro, simula um FPS só que sem foco na eliminação de inimigos, mas sim na pintura do campo de batalha. Único problema é não possuir um multiplayer com tela dividida para 4 pessoas offline, como apresentado no Mario Kart 8.

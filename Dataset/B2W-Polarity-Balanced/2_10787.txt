@@ -1,0 +1,1 @@
+Produto demora em responder as solicitações (processador poderia ser mais rapido

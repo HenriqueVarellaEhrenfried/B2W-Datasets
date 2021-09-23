@@ -1,0 +1,1 @@
+O conversor aparentemente está fazendo a sua função, só acho que a antena talvez não tenha tamanho ideal para captar todos os sinais digitais. A média percentual dos sinais captados varia de 40% a 60%, fato este que além da imagem não esteja ao nível dos sinais transmitidos pelas emissoras, acaba causando uma demora na localização dos canais ao efetuar uma troca entre os mesmos.

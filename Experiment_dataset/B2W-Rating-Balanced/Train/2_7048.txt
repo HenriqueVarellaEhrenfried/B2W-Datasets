@@ -1,0 +1,1 @@
+As pilhas são consumidas muito rapidamente, não compensando seu uso.

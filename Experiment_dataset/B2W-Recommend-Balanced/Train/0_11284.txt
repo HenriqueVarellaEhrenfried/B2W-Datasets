@@ -1,0 +1,1 @@
+Equipamento veio com defeito. O controle não reconheceu o drone e a QR CODE dava erro de leitura.

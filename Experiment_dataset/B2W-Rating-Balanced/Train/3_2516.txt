@@ -1,0 +1,1 @@
+A entrada do fone é a única coisa negativa,o fone n entra inteiro e qualquer movimento o fone desconecta.

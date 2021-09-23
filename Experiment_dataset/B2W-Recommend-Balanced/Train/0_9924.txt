@@ -1,0 +1,1 @@
+Cabo extensivel não funciona, não tem uma maneira de fixar daí quando usamos ele encolhe. Muito ruim.

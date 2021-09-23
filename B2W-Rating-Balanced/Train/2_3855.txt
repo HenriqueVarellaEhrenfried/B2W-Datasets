@@ -1,1 +1,0 @@
-Máquina regular, pois você tem que passar várias vezes para ela cortar. Bonita porém não é eficiente.

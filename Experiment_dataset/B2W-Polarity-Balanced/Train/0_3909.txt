@@ -1,0 +1,1 @@
+não demostra a pesagem exata, mesmo pesando varias vezes, os resultados são diferentes.

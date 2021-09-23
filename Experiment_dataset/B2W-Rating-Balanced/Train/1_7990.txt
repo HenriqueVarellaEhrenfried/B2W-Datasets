@@ -1,0 +1,1 @@
+Para fazer download é preciso que o celular "Leia" o código que vêm fixado na lâmpada. E este não está lendo, só dá erro.

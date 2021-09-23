@@ -1,0 +1,1 @@
+Muito bom mas, apresenta queda de tensão nos leds do meio para frente, o que pode ser resolvido fechando a malha do positivo (comum) entre uma ponta e outra.

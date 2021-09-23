@@ -1,0 +1,1 @@
+A compra foi cancelada por falta do produto, apesar de no momento de efetivar a compra aparecer a informação de que havia produto em estoque.

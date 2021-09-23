@@ -1,0 +1,1 @@
+passar informação mais complexa para o cliente.nao mostrar armário todo apenas a peça que se refere ao preço.  Maria

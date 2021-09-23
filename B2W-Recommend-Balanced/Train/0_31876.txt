@@ -1,1 +1,0 @@
-Duas teclas simplesmente pararam de funcionar no segundo dia de uso, são elas: a tecla "2" e a "x". Elas pararam de funcionar sem mais nem menos, testei em outro PC, em outras entradas, reiniciando, reinstalando e nada deu certo.

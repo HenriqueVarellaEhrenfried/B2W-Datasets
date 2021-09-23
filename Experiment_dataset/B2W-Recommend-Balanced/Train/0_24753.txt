@@ -1,0 +1,1 @@
+Antena pega menos canais que as comuns, de amplificada não tem nada, não cumpre os 56 dbi de ganho, funciona só próximo a repetidora.

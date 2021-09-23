@@ -1,0 +1,1 @@
+O carregador é um pouco pesado, mas funciona bem até agora, mostrando pelas luzinhas quanto ainda tem de carga.

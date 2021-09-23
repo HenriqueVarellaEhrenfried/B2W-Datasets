@@ -1,0 +1,1 @@
+O cartucho COLOR funcionou com sucesso, já o cartucho PRETO foi um fracasso, a impressora HP (F4580) não reconheceu.

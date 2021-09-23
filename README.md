@@ -12,9 +12,20 @@ Real, L., Oshiro, M., Mafra, A.: B2w-reviews01: An open product reviews corpus. 
 
 
 Using the provided dataset three datasets were created. They are  `B2W-Polarity-Balanced`, `B2W-Rating-Balanced` and `B2W-Recommend-Balanced`.
+
+## Description
+
+The directory `Dataset` contains the raw dataset without separtion between Train and Test dataset. 
+
+The directory `Experiment_dataset` contains the dataset with separation in Train and Test dataset described above. 
+
+
 ## The three datasets
 
 In this Section the creation process of each of the datasets is described.
+
+### NOTE:
+Each file is in the format `<class>_<id>.txt`. Where `<class>` is the class of the document and `<id>` the document identifier.
 
 
 ### B2W-Polarity-Balanced
@@ -102,3 +113,22 @@ The following table specifies all datasets objectives and sizes
 | B2W-Polarity-Balanced  | Classify polarity of the review                             | YES      | 48945        | 3                 | 47445              | 1500              |
 | B2W-Rating-Balanced    | Classify rating of the review                               | YES      | 41945        | 5                 | 39445              | 2500              |
 | B2W-Recommend-Balanced | Predict if a product is recommended or not                  | YES      | 71974        | 2                 | 70974              | 1000              |
+
+
+## Dataset Statitiscs
+
+The following table presents the statistics of the dataset concernig the number of words per review.
+
+
+|                  METRIC                   | NUMERIC OBSERVATION |
+|:-----------------------------------------:|:-------------------:|
+|                   Mean                    | 24.296533280956087  |
+|              Geometric Mean               |  18.47804203265341  |
+|               Harmonic Mean               | 14.861573589133467  |
+|                  Median                   |         16          |
+|                   Mode                    |         10          |
+|            Standard deviation             |  24.5049628883782   |
+|                 Max Value                 |         796         |
+|                 Min Value                 |          1          |
+| Number of review with more than 75 words  |        4892         |
+| Number of review with more than 150 words |         688         |

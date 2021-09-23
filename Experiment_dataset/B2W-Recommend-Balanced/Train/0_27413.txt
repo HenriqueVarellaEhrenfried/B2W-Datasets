@@ -1,0 +1,1 @@
+Balança não mantém peso. Se subir nela 10 vezes vai mostrar 10 pesos diferentes. Podendo ter diferença de até 1 kg

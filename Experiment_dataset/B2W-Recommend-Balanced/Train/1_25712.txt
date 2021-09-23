@@ -1,0 +1,1 @@
+Demora um pouco para responder aos comandos efetuados através do controle, ex: abrir o smart Hub, ele demora um pouco para aparecer as opções na tela.

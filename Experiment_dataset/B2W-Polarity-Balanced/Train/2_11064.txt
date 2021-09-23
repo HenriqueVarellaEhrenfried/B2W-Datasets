@@ -1,0 +1,1 @@
+Por favor indique as dimensoes do rack e painel(altura, largura etc..)

@@ -1,0 +1,1 @@
+Quando conectamos o cabo na caixa e depois de um tempo, mostra que a carga foi completa, porém não carregou totalmente a bateria. O cabo precisa ficar conectado ao aparelho enquanto está sendo usada.

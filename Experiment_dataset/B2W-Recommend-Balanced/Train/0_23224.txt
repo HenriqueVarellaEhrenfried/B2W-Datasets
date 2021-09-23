@@ -1,0 +1,1 @@
+O depilador possui 2 velocidades, retira o pelo pela raiz, porém preciso passar várias vezes no mesmo lugar e depois percebo que não retirou todos os pelos.

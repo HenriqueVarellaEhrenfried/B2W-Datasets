@@ -1,0 +1,1 @@
+Este teclado não funciona no windows 10, testei em uma maquina mais antiga com windows 7 e funciona perfeitamente. Já em maquinas mais modernas simplesmente não liga !

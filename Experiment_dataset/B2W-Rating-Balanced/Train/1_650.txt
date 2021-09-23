@@ -1,0 +1,1 @@
+Produto pago e não enviado. Foi feito pagamento via cartão e confirmado pelo fornecedor. Após algum tempo o fornecedor informou que o produto comprado não seria mais enviado por não ter disponibilidade em estoque. Se não tem disponibilidade por qual motivo foi anunciado?

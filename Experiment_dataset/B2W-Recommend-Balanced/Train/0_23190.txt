@@ -1,0 +1,1 @@
+Produto com uma medida fora. Largura informada 21 cnt. Largura real 17 cnt.  Demais medidas tamanhos próximos informado pelo fabricante.

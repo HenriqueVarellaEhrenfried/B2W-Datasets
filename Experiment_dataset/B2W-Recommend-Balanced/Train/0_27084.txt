@@ -1,0 +1,1 @@
+Na primeira vez que utilizei funcionou tudo certo, mas quando fui utilizar pela segunda vez, não está transmitindo o sinal de áudio, somente a imagem.
