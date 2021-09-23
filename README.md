@@ -15,17 +15,17 @@ Using the provided dataset three datasets were created. They are  `B2W-Polarity-
 
 ## Description
 
-The directory `Dataset` contains the raw dataset without separtion between Train and Test dataset. 
+The file `Dataset.zip` contains the dataset without separtion between Train and Test dataset. 
 
-The directory `Experiment_dataset` contains the dataset with separation in Train and Test dataset described above. 
+The file `Experiment_dataset.zip` contains the dataset with separation in Train and Test dataset. The Test dataset is composed of 500 reivews of each class of the dataset, while the Train dataset is the remaining reviews
+
+
+Each file is in the format `<class>_<id>.txt`. Where `<class>` is the class of the document and `<id>` the document identifier. Details about the meaning of each class is described bellow.
 
 
 ## The three datasets
 
 In this Section the creation process of each of the datasets is described.
-
-### NOTE:
-Each file is in the format `<class>_<id>.txt`. Where `<class>` is the class of the document and `<id>` the document identifier.
 
 
 ### B2W-Polarity-Balanced
