@@ -1,1 +1,0 @@
-Em comparação com um modelo anterior que possuo, notei que a luz que informa que a luz que informa que o carregamento de energia já esta completo fica sempre acesa mesmo já estando carregado, No modelo anterior a luz fica piscando quando o carregamento de energia está completo.

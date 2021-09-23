@@ -1,1 +1,0 @@
-Simplesmente não se conecta com o console os led's frontais ficam piscando até se apagarem e simplesmente não funciona.

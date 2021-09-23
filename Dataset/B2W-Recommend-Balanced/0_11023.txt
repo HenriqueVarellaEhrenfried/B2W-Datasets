@@ -1,1 +1,0 @@
-O carregamento TURBO só funciona com ele desligado. Quando coloco ele para carregar em funcionamento, leva mais de cinco horas para carregar.

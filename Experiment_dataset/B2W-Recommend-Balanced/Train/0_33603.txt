@@ -1,1 +1,0 @@
-Um dos botões secundários do controle não funciona.

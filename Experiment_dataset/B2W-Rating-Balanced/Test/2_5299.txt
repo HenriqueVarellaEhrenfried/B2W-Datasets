@@ -1,1 +1,0 @@
-Base não fica totalmente fixa, se o carro trepida o celular muda de posição .

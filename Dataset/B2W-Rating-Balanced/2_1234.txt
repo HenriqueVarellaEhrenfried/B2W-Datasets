@@ -1,1 +1,0 @@
-Nao da pta saber quando esta carregando ou se ja terminou de carregar, porque não tem luz indicativa no carregador e não dá pra ver a luz do controle carregar, tambem

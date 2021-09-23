@@ -1,1 +1,0 @@
-Funcionar até funciona, mas, com sérios problemas de compatibilidade. Tive que testar 4 drives, SSD e três HDD, entretanto só funcionou no mais antigo e de menor capacidade de armazenamento.

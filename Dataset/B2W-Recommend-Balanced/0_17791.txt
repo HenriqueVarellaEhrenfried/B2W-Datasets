@@ -1,1 +1,0 @@
-Deu defeito com 15 dias de uso, começou travando e agora não liga, aparece uma mensagem de diagnósticando o problema e em seguida aparece algumas opções que não funcionam ao clicar, ou então pede pra restaurar o computador

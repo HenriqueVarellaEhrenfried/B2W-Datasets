@@ -1,1 +1,0 @@
-As funções dos botões estão trocadas, mas o produto funciona como o esperado.

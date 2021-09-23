@@ -1,1 +1,0 @@
-Fica no máximo 5 minutos conectado. Fazendo com que tenha que ficar reconectando toda hora manualmente

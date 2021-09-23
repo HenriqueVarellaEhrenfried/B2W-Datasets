@@ -1,1 +1,0 @@
-Carregador mostra estar 100% mas quando começo a regarregar o celular ele rapidinho descarrega e nem chega a completar a carga do celular.

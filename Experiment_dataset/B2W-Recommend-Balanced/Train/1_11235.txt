@@ -1,1 +1,0 @@
-Carrega as pilhas de forma correta e se auto desativa quando estão cheias.

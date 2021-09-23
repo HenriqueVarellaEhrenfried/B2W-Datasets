@@ -1,1 +1,0 @@
-O botao de rotação esquenta e nao permite que a escova fique ligada ate mesmo por pouco tempo. Quero devolver.

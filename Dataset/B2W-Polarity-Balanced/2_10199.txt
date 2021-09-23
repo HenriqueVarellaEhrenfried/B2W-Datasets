@@ -1,1 +1,0 @@
-Esse processador não tem vídeo integrado, então precisa adicionar. Se não, nem vai ligar.

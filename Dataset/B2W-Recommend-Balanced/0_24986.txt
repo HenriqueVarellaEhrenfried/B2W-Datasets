@@ -1,1 +1,0 @@
-após carregar o aparelho por 10 horas por duas vezes, ele nao pisca o led para avisar que está carregado e no manual diz que pisca quando está com a carga completa. isso nao aconteceu por duas vezes que carreguei, mais alguém teve esse problema?

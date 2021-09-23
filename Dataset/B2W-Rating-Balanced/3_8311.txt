@@ -1,1 +1,0 @@
-demora para abrir os menis e por ser 120 mhz, menus deveriam ser mais rápidos.

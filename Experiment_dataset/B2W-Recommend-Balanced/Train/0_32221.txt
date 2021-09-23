@@ -1,1 +1,0 @@
-Ele funciona pra bater somente líquido quando coloca uma fruta ele para de funcionar.

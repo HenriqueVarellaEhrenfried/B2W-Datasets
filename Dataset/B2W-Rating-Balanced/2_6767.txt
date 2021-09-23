@@ -1,1 +1,0 @@
-Após atualizar a placa NVIDIA o notebook simplesmente parou de funcionar, dando o erro NVLDDMKM.SYS. Não recomendo

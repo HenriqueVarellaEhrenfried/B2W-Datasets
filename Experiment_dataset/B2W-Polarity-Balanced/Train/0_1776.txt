@@ -1,1 +1,0 @@
-o produto não atingiu carga total quando colocado para carregar e posteriormente em serviço descarregava imediatamente. Já pedimos a devolução do mesmo e até o momento não recebemos de volta o valor pago.

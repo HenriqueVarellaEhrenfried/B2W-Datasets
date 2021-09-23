@@ -1,1 +1,0 @@
-Produto entregue é mais barato do que o produto Pedido.  Devido a necessidade, já estou utilizando. Quero a Restituiçao da Diferença = R$ 73,00.

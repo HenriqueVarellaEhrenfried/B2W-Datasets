@@ -1,1 +1,0 @@
-Coloco pilha ele da uma volta e para tenho q colocar outra pilha ele da u ma volta e para e assim sucessivamente tenho q ter u ma fábrica de pilhas

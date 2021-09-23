@@ -1,1 +1,0 @@
-Internamente ñ funciona, porém externo, pega vários canais.

@@ -1,1 +1,0 @@
-o celular não treme quando recebe chamada, não tem opções de toque quando recebe chamada e nem regula a altura do som do toque.

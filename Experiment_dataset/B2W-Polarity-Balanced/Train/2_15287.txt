@@ -1,1 +1,0 @@
-bom. apenas um problema no botão de ligar a temperatura que as veses desliga sozinho

@@ -1,1 +1,0 @@
-O produto mostra a lapiseira rosa clara, mas na vdd é a rosa escura, mas do resto veio tudo perfeito.

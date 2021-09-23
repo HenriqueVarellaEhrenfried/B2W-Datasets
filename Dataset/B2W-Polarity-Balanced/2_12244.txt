@@ -1,1 +1,0 @@
-Realizei um teste de stress da CPU em ambiente não refrigerado. Apesar da boa refrigeração do gabinete com cinco fans, o processador AMD TR4 1920X atingiu a temperatura máxima, que é de 68°C. O fabricante é conceituado, porém para processamento pesado, o ideal são watercoolers específicos para este tipo de CPU, que infelizmente não são comercializados no Brasil.

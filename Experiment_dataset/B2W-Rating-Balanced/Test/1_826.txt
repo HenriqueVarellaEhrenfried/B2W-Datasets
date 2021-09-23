@@ -1,1 +1,0 @@
-O miracast (espelhamento) não funciona, a tela corta a borda da imagem entre outras coisas que me desagradaram.

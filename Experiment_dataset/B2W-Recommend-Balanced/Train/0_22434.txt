@@ -1,1 +1,0 @@
-bateria nao carrega 100 % e descarrega rapido demais

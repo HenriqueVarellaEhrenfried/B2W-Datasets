@@ -1,1 +1,0 @@
-Aparelho deveria desligar automático quando retira o cesto pra virar o alimento, ao retornar com cesto, volta a funcionar. Assim, além de economizar energia, ajuda o meio ambiente

@@ -1,1 +1,0 @@
-Infelizmente vem um mote de aplicativo do google que consome quase toda memória, instalei um cartão SD porém não adianta pois a memória interna não ajuda,

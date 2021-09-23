@@ -1,1 +1,0 @@
-Anuncio com um valor e quando clica comprar, aparece outro valor

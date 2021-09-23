@@ -1,1 +1,0 @@
-A verificação não é precisa, tem uma margem de erro de 0,2c.

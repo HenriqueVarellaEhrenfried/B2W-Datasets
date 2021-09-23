@@ -1,1 +1,0 @@
-Nenhum monitor que testei reconhece o hdmi da placa. Não tem nem a BIOS aparecendo. E o suporte não responde.

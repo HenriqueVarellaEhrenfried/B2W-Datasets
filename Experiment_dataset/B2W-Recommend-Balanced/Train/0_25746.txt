@@ -1,1 +1,0 @@
-Quando instala o Windows.automaticamente o teclado e mouse não funcionam em determinada etapa do processo

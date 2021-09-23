@@ -1,1 +1,0 @@
-O celular reconhece toques fantasmas na tela. preciso devolve-lo

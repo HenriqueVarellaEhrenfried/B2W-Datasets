@@ -1,1 +1,0 @@
-O aplicativo da impressora não reconhece a tinta, portanto não é possível verificar,  via aplicativo, a quantidade de tinta disponível no cartucho,

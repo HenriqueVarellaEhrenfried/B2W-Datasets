@@ -1,1 +1,0 @@
-A programação dele é muito variada, programei os sensores dos lasers para eliminar alguns  indesejados e não escapa nenhum, o único problema são os furos nas paredes onde pega o laser.

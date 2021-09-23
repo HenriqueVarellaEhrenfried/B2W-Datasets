@@ -1,1 +1,0 @@
-O depilador é fraco, tem que passar várias vezes até que arranque os pêlos.

@@ -1,1 +1,0 @@
-Interface do android um pouco fraca, mas de resto cumpre o que promete.

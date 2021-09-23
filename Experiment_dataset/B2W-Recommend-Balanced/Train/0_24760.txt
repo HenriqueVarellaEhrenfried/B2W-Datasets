@@ -1,1 +1,0 @@
-A balança veio sem possibilidade de uso. O botão que se deve utilizar para zerar o ponteiro, e iniciar a pesagem só gira até certo ponto, não atingindo o zero, para que se verifique o peso.

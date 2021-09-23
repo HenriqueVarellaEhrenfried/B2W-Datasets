@@ -1,1 +1,0 @@
-So apresenta a última mensagem recebida no whatsapp e o sistema não tem integração com o what's para, por exemplo, enviar uma nova mensagem para uma pessoa no what's, somente responder caso ainda haja uma mensagem pendente. Nada prático e motivo de reclamação de muitos na Internet. Não recomendo.

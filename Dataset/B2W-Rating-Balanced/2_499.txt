@@ -1,1 +1,0 @@
-Encaixe da janela é super mal planejado, ele é bem barulhento (menos do que os da concorrência, mas ainda assim é MUITO barulho) e gela bem desde que o ambiente seja bem pequeno. Um produto muito caro.

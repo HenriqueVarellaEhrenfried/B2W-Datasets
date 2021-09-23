@@ -1,1 +1,0 @@
-Integração Waze Spotify é bugada no app AppRadio da Pioneer demorada, tem q ficar dando permição no aparelho, sem falar que trava o Waze se trocar de tela resposta lenta ao toque no app Waze.. isso no IOS da Apple e no CarPlay falta o app de navegação mas o Spotify funciona muito bem e integração rápida e sem problemas, não testei com Android Auto

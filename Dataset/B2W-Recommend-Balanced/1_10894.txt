@@ -1,1 +1,0 @@
-A saída de som as vezes fica falhando, com uns estralos

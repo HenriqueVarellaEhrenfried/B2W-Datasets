@@ -1,1 +1,0 @@
-Veio com o botão do volume estragado. Impossível baixar o volume porque o botão aumenta para os dois lados. Será devolvido.

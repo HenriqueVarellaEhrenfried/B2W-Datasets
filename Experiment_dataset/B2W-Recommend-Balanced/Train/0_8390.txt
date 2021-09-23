@@ -1,1 +1,0 @@
-Meu produto veio com.defeito porque não está segurando carga e agora não carrega mais

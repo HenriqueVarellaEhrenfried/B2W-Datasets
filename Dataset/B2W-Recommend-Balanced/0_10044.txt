@@ -1,1 +1,0 @@
-Compra cancelada após o pagamento, não deveria nem receber este tipo de e-mail para avaliação.

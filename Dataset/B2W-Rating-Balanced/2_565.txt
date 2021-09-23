@@ -1,1 +1,0 @@
-O manual não menciona a informação sobre qual é a bateria a ser utilizada no controle remoto, que não são pilhas tipo AA ou AAA, e sim uma bateria de 12V.

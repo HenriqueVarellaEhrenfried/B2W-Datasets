@@ -1,1 +1,0 @@
-O painel é bonito elegante igual ao original entretanto a medição do rpm não condiz com a aceleração ele tem muito atraso.

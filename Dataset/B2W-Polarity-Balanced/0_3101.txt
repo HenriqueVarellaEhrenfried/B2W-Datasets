@@ -1,1 +1,0 @@
-O pedido foi cancelado e o valor devolvido, motivo nao teve o produto para entregar.

@@ -1,1 +1,0 @@
-Tem q tomar cuidado na instalação, por causa do filtro pra não saturar.

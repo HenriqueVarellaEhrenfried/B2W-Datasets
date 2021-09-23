@@ -1,1 +1,0 @@
-Produtos simples mas muito bom para ler código de barras de mercadorias, para ler DANFE/XML.

@@ -1,1 +1,0 @@
-o Pendrive não formata no formato NTFS, e só fica no formato de FAT32

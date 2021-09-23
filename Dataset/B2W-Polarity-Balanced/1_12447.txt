@@ -1,1 +1,0 @@
-Só gostaria de saber como faço pra configurar o laser pra apagar assim que faz a leitura do código de barras. Por que ele está contínuo.

@@ -1,1 +1,0 @@
-Embora tenha certificado INMETRO, este modelo mascara os dados, quando usado em pessoas adultas chega no máximo como normal 95 de spo2, respectivamente. mas o normal é de 99, no minimo 97 de spo2 para uma pessoa eupneica(respiração normal).

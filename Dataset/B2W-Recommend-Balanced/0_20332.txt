@@ -1,1 +1,0 @@
-Cada vez que a pessoa sobe na balança em questão de segundos aparece um pesos diferente, não faz o cálculo de IMC, água, gordura.  Enfim, não funciona!

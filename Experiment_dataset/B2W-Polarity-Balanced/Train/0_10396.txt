@@ -1,1 +1,0 @@
-O produto não carrega. Ele pausa o carregamento após 1 segundo carregando.  Horrível.

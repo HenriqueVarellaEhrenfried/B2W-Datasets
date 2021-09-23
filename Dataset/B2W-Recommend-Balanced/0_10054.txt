@@ -1,1 +1,0 @@
-O produto chegou antes da data informada, porém foi instalado e a mensagem que exibida na impressora com o erro continua.

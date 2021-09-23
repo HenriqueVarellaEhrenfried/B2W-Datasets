@@ -1,1 +1,0 @@
-Pouca memória interna tendo em vista que metade dos 32GB já vem ocupado pelo próprio sistema. E se você utiliza dois Chips não tem a possibilidade de expandir a memória, pois o aparelho só tem espaço pra dois Chips ou um chip e um cartão de memória.

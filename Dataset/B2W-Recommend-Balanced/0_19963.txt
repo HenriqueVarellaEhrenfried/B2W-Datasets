@@ -1,1 +1,0 @@
-Equipamento com ruído em todas as formas de conexão. Após envio para manutenção, retornou com ruído na ligação via bluetooth. Segundo o técnico componentes da placa de baixa qualidade.

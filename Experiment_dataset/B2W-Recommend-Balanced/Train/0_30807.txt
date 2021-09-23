@@ -1,1 +1,0 @@
-Permite moer o café na granularidade ideal para diversos tipos de equipamentos de extração (prensa, moka, etc).

@@ -1,1 +1,0 @@
-Produto sem nota fiscal não passarão número da nota e nem trocarão no momento de entrega .

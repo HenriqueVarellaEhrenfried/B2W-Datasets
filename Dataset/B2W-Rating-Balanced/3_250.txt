@@ -1,1 +1,0 @@
-O mouse esta funcionando perfeitamente mas o teclado nen tanto, tem teclas que nao funcionam como a letra P,shift, e quando elas funcionam as letras B,H,CTRL nao funcionam sem contar as teclas numerais que tambem nao funcionam  ja tenntei de tudo pra arrumar mas sempre que uma letra pega as outras param.

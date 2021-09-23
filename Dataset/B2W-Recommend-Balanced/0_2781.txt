@@ -1,1 +1,0 @@
-O contador dele não funciona direito. Não marca como deveria.

@@ -1,1 +1,0 @@
-Carrega só quando ele quer e muito lento. O dia inteiro na tomada r as vezes não carrega 100%.

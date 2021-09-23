@@ -1,1 +1,0 @@
-Para o que eu precisava, não foi possível utiliza-lo, pois não lê o último número de cada sequência do código de barras.

@@ -1,1 +1,0 @@
-não sai as coordenadas corretas atualizadas pelo map.google. como configurar para atualizar as coordenadas corretas.

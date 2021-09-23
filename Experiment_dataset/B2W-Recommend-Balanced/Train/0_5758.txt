@@ -1,1 +1,0 @@
-Conectado em uma caixa de som ou em um fone de ouvido Bluetooth, quando é tocado algum som no computador, o áudio para de funcionar para outros aplicativos, tendo que desconectar e conectar novamente o adaptador.

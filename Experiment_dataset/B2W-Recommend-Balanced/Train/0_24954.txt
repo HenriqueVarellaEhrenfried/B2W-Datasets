@@ -1,1 +1,0 @@
-O contador de passos, na verdade é um contador de tempo. Ele avisa quando chega as msgs, porém não dá para ler. Em resumo, eu acho que não vale a pena o custo comparado com os benefícios.

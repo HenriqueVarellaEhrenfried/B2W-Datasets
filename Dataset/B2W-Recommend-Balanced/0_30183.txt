@@ -1,1 +1,0 @@
-O carregador funcionou conectado ao aparelho. Mas quando se coloca a bateria para carregar não pega carga.

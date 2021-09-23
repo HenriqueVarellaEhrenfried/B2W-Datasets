@@ -1,1 +1,0 @@
-Não posso ainda expressar o resultado do desempenho do kit carregador e as pilhas, mas notei que demora muito tempo para carregar.

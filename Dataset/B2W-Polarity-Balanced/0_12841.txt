@@ -1,1 +1,0 @@
-O microfone veio sem funcionar. Foi testado em 3 notebooks e em nenhum, funcionou.

@@ -1,1 +1,0 @@
-Quando o cartao de memoria fica cheio, ela não apaga o mais antigo para continuar gravando, apesar de estar configurada em looping (5min).

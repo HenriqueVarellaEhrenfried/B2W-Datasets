@@ -1,1 +1,0 @@
-Melhorar a sincronização que existem algumas falhas durante  o uso, e a bateria, melhorar duração da bateria.

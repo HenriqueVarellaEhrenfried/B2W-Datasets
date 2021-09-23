@@ -1,1 +1,0 @@
-No conjunto é ótimo, mas tem alguns bugs chatos, caso do wiffi, sempre tenho problema para conectar de volta, quando saio do alcance do mesmo, tenho sempre que reiniciar para que o acesso seja obtido e o reinicio tenho que fazer forçado, pois não reinicia apenas apertando o botão de reinicio.

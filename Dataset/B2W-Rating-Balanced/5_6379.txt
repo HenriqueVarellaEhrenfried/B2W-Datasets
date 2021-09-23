@@ -1,1 +1,0 @@
-Monitor funciona como dois monitores. Divide a tela em dois. Muito bom.

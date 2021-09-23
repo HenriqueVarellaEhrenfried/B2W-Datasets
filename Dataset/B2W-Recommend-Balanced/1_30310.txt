@@ -1,1 +1,0 @@
-Apesar de relativamente baixo o espaço, real, é aceitável vista que comum essa perda de espaço. Taxa de gravação Max 8.5mb/s e leitura de 60.5mb/s numa entrada 3.0.

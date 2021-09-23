@@ -1,1 +1,0 @@
-O botão do scroll está constantemente pressionado, é muito sensível e as vezes rola a página sozinho

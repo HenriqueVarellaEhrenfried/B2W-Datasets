@@ -1,1 +1,0 @@
-Este produto possui um conjunto de Leds nos fones que ficam piscando sem parar e isso incomoda muito depois de alguns segundos. Para resolver este problema, eu sugiro ao fabricante a inclusão de um botão on/off para facilitar o usuário que não deseja os leds. Uma alternativa foi abrir a caixa de controle de volume e cortar o fio na placa indicado com 5V.

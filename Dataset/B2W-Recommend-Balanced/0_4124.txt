@@ -1,1 +1,0 @@
-Acho que deveriam testar se funciona antes de enviar para o cliente.

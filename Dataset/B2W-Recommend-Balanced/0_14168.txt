@@ -1,1 +1,0 @@
-Monitor fabricado em dezembro de 2017 mas sem driver existente para Windows 10. Sendo assim, opera  fora resolução máxima que seria a ideal. Windows 10 o reconhece como monitor genérico e qualquer resolução escolhida a imagem fica esticada e embassada. Caso houvesse  o driver, funcionária na resolução ideal sem problemas.

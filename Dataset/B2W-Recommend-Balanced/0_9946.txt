@@ -1,1 +1,0 @@
-Vem dizendo que funciona pra AMD mas as presilhas nem estão corretas, fazendo com que seja impossível fixar no processador.

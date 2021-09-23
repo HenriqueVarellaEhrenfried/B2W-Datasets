@@ -1,1 +1,0 @@
-Variacao no sensor de acordo com a forma de manejo. Fragil.

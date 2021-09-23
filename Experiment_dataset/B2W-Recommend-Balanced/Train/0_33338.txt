@@ -1,1 +1,0 @@
-O toner não possui os pinos de enaixe, não posiciona o leitor do chip e por isso não funciona.

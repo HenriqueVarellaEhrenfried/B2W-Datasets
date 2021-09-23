@@ -1,1 +1,0 @@
-Balança não tem precisão , a cada pesagem mostra pesos diferentes.

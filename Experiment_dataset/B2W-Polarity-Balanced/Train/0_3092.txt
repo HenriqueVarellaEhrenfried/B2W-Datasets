@@ -1,1 +1,0 @@
-A bateria está com a duração muito curta, em meia hora de uso do notbook ela já pedir carga novamente.

@@ -1,1 +1,0 @@
-É um ótimo livro para quem tem experiência em pelo menos uma linguagem de programação. Explica tudo, por meio de exemplos e anotações no próprio código. É direto e de leitura agradável. Apresenta erros e "boas práticas" de codificação, mas não há preocupação com arquitetura e estruturação de código. Para quem tem essa preocupação, é o aspecto que deixa a desejar.

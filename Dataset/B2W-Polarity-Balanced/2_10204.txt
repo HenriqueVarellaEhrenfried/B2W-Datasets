@@ -1,1 +1,0 @@
-O notebook é bom. Apenas algumas observações a serem feitas: - Demora para encontrar as redes quando inicializado; - Criei dois perfis: um com conta microsoft e outro sem conta. Demora um pouco mais para carregar os perfis; - Ele não vem com duas partições no HD, apenas com o disco local C.

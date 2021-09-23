@@ -1,1 +1,0 @@
-O cartucho deveria imprimir 1000 folhas. Só imprimiu 250 folhas com qualidade. A partir dessa quantidade está imprimindo com falha, o lado esquerdo da página fica com impressão quase invisível enquanto a metade direita fica normal. Ou seja, impressões imprestáveis.

@@ -1,1 +1,0 @@
-As funções em si são perfeitas, porém tive problemas com os carregadores que são do modelo antigo e tive que procurar dois adaptadores para conseguir usar.

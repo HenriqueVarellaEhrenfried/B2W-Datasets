@@ -1,1 +1,0 @@
-O servidor da AOC nao conectava de maneira alguma, liguei varias vezes ate conseguirem resolver o problema, função smart nao tem quase nada uitil, apenas netflix e youtube e o controle é muito fragil

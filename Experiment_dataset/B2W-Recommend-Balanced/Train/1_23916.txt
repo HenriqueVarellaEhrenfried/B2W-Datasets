@@ -1,1 +1,0 @@
-A base permite trabalhar com ângulo de 90° e empilhar pelo menos 3 telas, servindo de monitor para consultas enquanto edito no monitor principal.

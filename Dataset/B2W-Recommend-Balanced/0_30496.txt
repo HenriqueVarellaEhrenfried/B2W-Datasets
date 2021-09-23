@@ -1,1 +1,0 @@
-as borboletas não voam, somente quando colocamos o elefante na horizontal que as borboletas saem.

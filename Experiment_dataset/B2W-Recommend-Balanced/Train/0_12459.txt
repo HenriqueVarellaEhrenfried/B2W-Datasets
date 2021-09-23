@@ -1,1 +1,0 @@
-o aparelho não permite navegar entre pastas de arquivos de música do pendrive.

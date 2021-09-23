@@ -1,1 +1,0 @@
-Com defeito, so ligou e desligou não voltou a funcionar.

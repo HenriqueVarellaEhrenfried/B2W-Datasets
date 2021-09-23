@@ -1,1 +1,0 @@
-O botão de liga/desliga, bem como o botão de aumento de temperatura, não estão localizados em um lugar estratégico, pois ao manusear a escova os botões são apertados pois  estão em local onde seguramos a escova. Ficaria muito melhor se fossem colocados em outro lugar. Recomendo, no momento de urgência ele atende perfeitamente.

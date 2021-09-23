@@ -1,1 +1,0 @@
-Não consegui instalar a impressora no modo wireless. Eu uso Linux e não consegui achar um software para fazer a mediação (tenho senha no wifi). Mas está funcionado com cabo sem qq problema.

@@ -1,1 +1,0 @@
-1º Para instalar o Windows é terrivel e dá uma enorme trabalheira pois ele não faz boot em um pendrive bootavel comum,  tem que baixar o RUFUS porque ele é bloq de fabrica só consegue fazer boot UEFI.  2º Nem tente instalar x32 ele so aceita Windows x64, o que não faz nenhuma lógica pois o notebook só vem com 1 slot de RAM e o processador já ão é lá essas coisas.
