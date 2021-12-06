@@ -132,3 +132,29 @@ The following table presents the statistics of the dataset concernig the number 
 |                 Min Value                 |          1          |
 | Number of review with more than 75 words  |        4892         |
 | Number of review with more than 150 words |         688         |
+
+## Dataset Exemples
+
+### Polarity Dataset
+In the Polarity dataset there is the following reviews
+
+Polarity 0:
+```
+Vocês são muito bons para vender, mas entregar é uma outra conversa. A previsão de entrega era para o dia 10/01 e até hoje nada.  Estou muito decepcionado com a falta de seriedade de vocês. É muito provável que essa seja a última vez que compro na Americanas. 
+```
+
+
+Polarty 1:
+```
+Produto com excelente custo X benefício. Chegou antes do prazo. Parabéns para a Americanas e a LG
+```
+
+
+Polarity 2:
+```
+O sistema de menu da AOC (i-MENU) não está funcionando para mim, eu o instalei, e abri, mas quando vou mexer nas opções apenas 3 é possível clicar, as outras 5 não funciona (Passa o cursor por cima da opção, e clica, mas não funciona), gostaria de saber se é normal nesse produto.
+```
+
+
+
+
