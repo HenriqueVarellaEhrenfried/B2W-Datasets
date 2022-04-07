@@ -1,5 +1,36 @@
 # B2W Reviews
 
+## Cite this work
+
+Ehrenfried H.V., Todt E. (2022) Should I Buy or Should I Pass: E-Commerce Datasets in Portuguese. In: Pinheiro V. et al. (eds) Computational Processing of the Portuguese Language. PROPOR 2022. Lecture Notes in Computer Science, vol 13208. Springer, Cham. https://doi.org/10.1007/978-3-030-98305-5_40
+
+* Bibitex
+```
+@InProceedings{Ehrenfried_and_Todt_PROPOR2022,
+  author="Ehrenfried, Henrique Varella
+  and Todt, Eduardo",
+  editor="Pinheiro, Vl{\'a}dia
+  and Gamallo, Pablo
+  and Amaro, Raquel
+  and Scarton, Carolina
+  and Batista, Fernando
+  and Silva, Diego
+  and Magro, Catarina
+  and Pinto, Hugo",
+  title="Should I Buy or Should I Pass: E-Commerce Datasets in Portuguese",
+  booktitle="Computational Processing of the Portuguese Language",
+  year="2022",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="420--425",
+  abstract="Text classification is an essential task in Natural Language Processing. The researchers and developers need data in the desired language to build new models and algorithms to develop this task. In this paper, we discuss and make available three datasets of text classification in Portuguese based on data of the B2W group, which is an important contribution to the research in the field.",
+  isbn="978-3-030-98305-5"
+}
+
+```
+
+## Original Dataset
+
 The original dataset was published in the STIL 2019:
 http://comissoes.sbc.org.br/ce-pln/stil2019/accepted.html
 
